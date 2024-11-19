@@ -11,7 +11,7 @@ We use technology every day. Do you know what kinds of cords, connectors and equ
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [What's Your Setup?](./What's Your Setup?/README.md) | 30 | Identify computer equipment, connectors, and cords in use.|
+| [What's Your Setup?](./what-s-your-setup/README.md) | 30 | Identify computer equipment, connectors, and cords in use.|
 | **Total content**                                    | 30 |                                     |
 
 ## References
