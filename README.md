@@ -26,8 +26,8 @@ We use technology every day. Do you know what kinds of cords, connectors and equ
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/What's Your Setup?/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/What's Your Setup?/canvas-landing-pages/fallback.html)
+- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/whats-your-setup/canvas-landing-pages/tktk-course-acronym.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/whats-your-setup/canvas-landing-pages/fallback.html)
 
 ### Resources
 
