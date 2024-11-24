@@ -14,7 +14,7 @@ repo {
   // This name is shown in the header nav to navigate users home
   friendlyName = "What's Your Setup?"
   // This must match the repo name as it appears on GitHub exactly
-  name = "what-s-your-setup"
+  name = "whats-your-setup"
   type = "Lesson"
 }
 
