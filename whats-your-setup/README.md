@@ -3,76 +3,106 @@
   <span class="subhead">Discussion: What's Your Setup?</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to explain their current tech stack and all of its components.
+**Learning objective:** By the end of this lesson, students will be able to explain their current tech stack and its components.
 
-# Getting to Know Your Tech
+## Getting to know your tech
 
-Let's talk about why it's super helpful to know your way around your own tech setup. Think of it like knowing what's in your toolbox - when something goes wrong or you need to make changes, you'll know exactly what you're working with!
+Let's talk about why knowing your way around your own tech setup is helpful. Think of it like knowing what's in your toolbox - when something goes wrong or you need to make changes, you'll know what you're working with.
 
-## Your Mobile Device Setup
+> 💡 Everything you learn about your setup directly connects to technology you'll need to know for real-life scenarios and technology exams!
 
-Let's start with something you probably use every day - your phone!
+<div class="activity solo-exercise">
+  <h2 class="title">Your mobile device connections</h2>
+  <span class="minutes">5 min</span>
+</div>
 
-### Ports and Connectors to Identify
+Let's start with something you probably use every day - your phone! Log all of the following, then we'll discuss what you find.
+
+### Ports and connectors to identify
+
+![USB-C, Lightning, and Micro-USB ports and connectors](./assets/mobile-charging-ports-and-cables.png)
 
 1. Charging port type:
 
-- USB-C
-- Lightning
-- Look for speed markings like "SS" for SuperSpeed
+   - USB-C
+   - Lightning
+   - Micro-USB
 
 2. Audio Connections:
 
-- 3.5 mm headphone jack
-- USB-C to headphone adapters
+   - 3.5 mm headphone jack
+   - USB-C to headphone adapters
 
-### Accessories to Check
+### Accessories to check
 
-- Chargers: What wattage do they provide? (Usually this is printed on the charging brick.)
-- Power banks: Check the mAh (milliamp hours) capacity
-- Cases: Note if they're wirelss charging compatible
-- Screen protectors: Glass or plastic?
+- How do you charge your phone? Do you charge it wirelessly or use a wire?
+- Do you have external batteries or power banks? If you do, what is their mAh (milliamp hours) capacity?
+- Do you have a case? If you do, note if it's wireless charging compatible.
+- Do you have a screen protector? If you do, is it glass or plastic?
 
-## Your Laptop/Desktop Connections
+<div class="activity solo-exercise">
+  <h2 class="title">Your laptop or desktop connections</h2>
+  <span class="minutes">15 min</span>
+</div>
 
-Time to check out your computer's connectivity options!
+### Your laptop/desktop connections
 
-### Common Ports to Map Out
+Time to check out your computer's connectivity options! Log the type and number of each port on your computer, and we'll discuss!
 
-1. USB Ports
+### Common ports to map out
 
-- Count how many USB-A (rectangular) ports are present
-- Look for USB-C (oval) ports
-- Note any special markings (SS, Lightning bolt for Thunderbolt)
+![USB-A, USB 3.0, USB-C, and Thunderbolt ports and connectors. VGA, DVI, DisplayPort, Ethernet (RJ-45) and HDMI Ports.](./assets/computer-ports-and-cables.png)
 
-2. Display Outputs
+1. USB ports
 
-- HDMI(most common)
-- DisplayPort(common on gaming setups)
-- VGA(older blue port)
-- DVI(white or blue with pins)
+   - USB-A and USB 3.0 ports are rectangular. USB 3.0 ports will have a blue insert.
+   - USB-C ports are oval.
 
-3. Network Connections
+   Note any special markings, for example, SS for SuperSpeed or a lightning bolt for Thunderbolt.
 
-- Ethernet port(RJ-45)
-- WiFi card type(May need to check System Info)
-- Bluetooth version
+2. Display outputs
 
-## Peripherals Party!
+   - HDMI is common across laptops and desktops.
+   - DisplayPort is often found on gaming or workstation setups.
+   - VGA ports are older, and are typically blue.
+   - DVI ports are white or blue with pins. There are a wide variety of DVI sub-types, so yours may not look exactly like the graphic above.
 
-What's connected to your computer? Let's list them!
+3. Network connections
 
-### Input Devices
+   - Note any Ethernet (RJ-45) ports.
+   - Does the device have Wi-Fi capabilities such as 802.11a/g/n/ac or Wi-Fi 6, 6E, or 7? You may need to check your system settings for this.
+   - Note if the device has Bluetooth. If you do, determine the Bluetooth version.
 
-- Keyboard type(mechanical, membrane, wireless?)
-- Mouse/trackpad connection method
-- Webcam resolution
-- Microphone setup
+4. Anything else?
 
-### Output Devices
+   Take note of anything you've found that's not listed above. Try to identify it or share it with the group.
 
-- Monitor connections and resolutions
-- Speaker/headphone setup
-- Printer connection type
+<div class="activity solo-exercise">
+  <h2 class="title">Peripherals party!</h2>
+  <span class="minutes">10 min</span>
+</div>
 
-**Remember**: Everything you're learning about your own setup directly connects to technology you'll need to know for both real life scenarios and technology exams!
+![A monitor, speaker, keyboard, mouse, printer, microphone, and webcam](./assets/peripherals.png)
+
+What's connected to your computer? Log the following details about your computer's input and output devices, and we'll talk briefly about what you've found.
+
+### Input devices
+
+- Keyboards can be almost endlessly customized. Take note of your keyboard's features, including:
+  - Is it TKL (TenKeyLess)?
+  - Is it mechanical or membrane?
+  - Is it wired or wireless?
+  - Does it have a backlight?
+  - Does it have a unique key layout or size?
+  - Are the keys split up in some way for comfort, or are they collected together?
+- Note if you use a mouse or trackpad. Include its connection method.
+- Document the Webcam type (external or internal) and resolution.
+- Determine your microphone setup.
+
+### Output devices
+
+Take note of all of the following:
+
+- Monitor connections and resolutions.
+- Speaker/headphone setup.
+- Printer type, such as laser or inkjet, and its connection method.

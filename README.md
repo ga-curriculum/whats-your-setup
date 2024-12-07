@@ -11,8 +11,8 @@ We use technology every day. Do you know what kinds of cords, connectors and equ
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [What's Your Setup?](./whats-your-setup/README.md) | 30 | Identify computer equipment, connectors, and cords in use.|
-| **Total content**                                    | 30 |                                     |
+| [What's Your Setup?](./whats-your-setup/README.md) | 30 min | Identify computer equipment, connectors, and cords in use.|
+| **Total content**                                  | 30 min |                                                           |
 
 ## References
 
@@ -26,7 +26,7 @@ We use technology every day. Do you know what kinds of cords, connectors and equ
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/whats-your-setup/canvas-landing-pages/tktk-course-acronym.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/whats-your-setup/canvas-landing-pages/itb.html)
 - [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/whats-your-setup/canvas-landing-pages/fallback.html)
 
 ### Resources
