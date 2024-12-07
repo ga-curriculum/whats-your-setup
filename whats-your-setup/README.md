@@ -3,7 +3,7 @@
   <span class="subhead">Discussion: What's Your Setup?</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to explain their current tech stack and its components.
+**Learning objective:** By the end of this lesson, students will be able to explain their current tech stack and its components, enabling them to better evaluate tech they will encounter in their careers.
 
 ## Getting to know your tech
 
