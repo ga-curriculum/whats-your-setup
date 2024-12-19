@@ -18,9 +18,9 @@ Let's talk about why knowing your way around your own tech setup is helpful. Thi
 
 Let's start with something you probably use every day - your phone! Log all of the following, then we'll discuss what you find.
 
-### Ports and connectors to identify
-
 ![USB-C, Lightning, and Micro-USB ports and connectors](./assets/mobile-charging-ports-and-cables.png)
+
+### Ports and connectors to identify
 
 1. Charging port type:
 
@@ -45,13 +45,11 @@ Let's start with something you probably use every day - your phone! Log all of t
   <span class="minutes">15 min</span>
 </div>
 
-### Your laptop/desktop connections
-
 Time to check out your computer's connectivity options! Log the type and number of each port on your computer, and we'll discuss!
 
-### Common ports to map out
-
 ![USB-A, USB 3.0, USB-C, and Thunderbolt ports and connectors. VGA, DVI, DisplayPort, Ethernet (RJ-45) and HDMI Ports.](./assets/computer-ports-and-cables.png)
+
+### Common ports to map out
 
 1. USB ports
 
@@ -82,9 +80,9 @@ Time to check out your computer's connectivity options! Log the type and number 
   <span class="minutes">10 min</span>
 </div>
 
-![A monitor, speaker, keyboard, mouse, printer, microphone, and webcam](./assets/peripherals.png)
-
 What's connected to your computer? Log the following details about your computer's input and output devices, and we'll talk briefly about what you've found.
+
+![A monitor, speaker, keyboard, mouse, printer, microphone, and webcam](./assets/peripherals.png)
 
 ### Input devices
 
