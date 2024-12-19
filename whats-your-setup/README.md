@@ -67,9 +67,9 @@ Time to check out your computer's connectivity options! Log the type and number 
 
 3. Network connections
 
-   - Note any Ethernet (RJ-45) ports.
+   - Ethernet ports (RJ-45) for wired network connections.
    - Does the device have Wi-Fi capabilities such as 802.11a/g/n/ac or Wi-Fi 6, 6E, or 7? You may need to check your system settings for this.
-   - Note if the device has Bluetooth. If you do, determine the Bluetooth version.
+   - Note if the device has Bluetooth. If it does, determine the Bluetooth version.
 
 4. Anything else?
 
